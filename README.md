@@ -1,0 +1,4 @@
+stupid
+======
+
+automatic studip management
